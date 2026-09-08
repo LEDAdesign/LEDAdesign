@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @LEDAdesign
-- 👀 I’m interested in building bridges between UX and UI, art and technology and any design based structures
-- 🌱 I’m currently learning Google Statistics and In Depth Interviews
-- 💞️ I’m looking to collaborate on creatingf UX/UI solutions
-- 📫 How to reach me: natalialedzianowska@gmail.com
+- 👀 I’m interested in building bridges between education and technology, UX/UI, research and behavioral psychology. 
+- 💪 I use AI and design to reduce uncertainty before development.
+- 🫸💥🫷I’m looking to collaborate on creating complex UX/UI and business solutions in EdTech, FinTech, Data.
+- 📫 How to reach me: natalialedzianowska@gmail.com, https://www.linkedin.com/in/natalialedzianowska/, https://ledadesign.framer.website/
 
 <!---
 LEDAdesign/LEDAdesign is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
